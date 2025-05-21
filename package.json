@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://juaquinmorales2.github.io/Practica1N2",
+  "homepage": "https://juaquinmorales2.github.io/Practica1N2/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
